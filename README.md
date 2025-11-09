@@ -52,7 +52,7 @@ It contains Nobel laureates' details such as:
 ## 🧩 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/nobel-prize-analysis.git
+   git clone https://github.com/tonybenard/nobel-prize-analysis.git
    cd nobel-prize-analysis
 
    pip install pandas numpy matplotlib seaborn plotly
